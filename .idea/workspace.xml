@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="May18th" />
+    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="new files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,38 +43,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab001_Python_helloWorld.executor": "Run",
-    "Python.Lab002_python_basics.executor": "Run",
-    "Python.Lab003_python_basics.executor": "Debug",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab5.executor": "Run",
-    "Python.Lab7_Variables_identifier_rules.executor": "Run",
-    "Python.Lab8_Dynimically_typed.executor": "Run",
-    "Python.lab13.executor": "Run",
-    "Python.lab14_Math_func.executor": "Run",
-    "Python.lab15_Literals.executor": "Run",
-    "Python.lab16_Literals.executor": "Run",
-    "Python.lab17_Literals.executor": "Run",
-    "Python.lab18_Literals.executor": "Run",
-    "Python.lab20_Literals.executor": "Run",
-    "Python.lab21_user_input.executor": "Run",
-    "Python.lab22_Literals.executor": "Run",
-    "Python.lab23_string_functions.executor": "Run",
-    "Python.lab24_string2_functions.executor": "Run",
-    "Python.lab25_string3_functions.executor": "Run",
-    "Python.lab27_escape_sequnce1.executor": "Run",
-    "Python.lab28_escape_sequnce2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May18_Literals_Variables",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_helloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_python_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_python_basics.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab7_Variables_identifier_rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab8_Dynimically_typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab14_Math_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab15_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab16_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab17_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab18_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab20_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab21_user_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab22_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab23_string_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab24_string2_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab25_string3_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab27_escape_sequnce1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab28_escape_sequnce2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May18_Literals_Variables&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May18_Literals_Variables" />
@@ -143,12 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747581712738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1747581946560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747581946560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="May18th" />
-    <option name="LAST_COMMIT_MESSAGE" value="May18th" />
+    <MESSAGE value="new files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
   </component>
 </project>
