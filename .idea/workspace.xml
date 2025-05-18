@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab15_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab16_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab17_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab18_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab20_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab21_user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab22_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab23_string1_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab24_string2_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab25_string3_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab27_escape_sequnce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab28_escape_sequnce2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab001_Python_helloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab001_Python_helloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab002_python_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab002_python_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab003_python_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab003_python_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab0010.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab0010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab11.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab5.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab6_different_typeof_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab6_different_typeof_Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab7_Variables_identifier_rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab7_Variables_identifier_rules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab8_Dynimically_typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab8_Dynimically_typed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab13.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab14_Math_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab14_Math_func.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MurthyKNDVVSN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MurthyKNDVVSN&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MurthyKNDVVSN/PyATB5xLearning.git",
-    "accountId": "ea7f3498-20b6-4839-b771-4dca414083f7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MurthyKNDVVSN/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;ea7f3498-20b6-4839-b771-4dca414083f7&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -74,13 +72,27 @@
     "Python.Lab8_Dynimically_typed.executor": "Run",
     "Python.lab13.executor": "Run",
     "Python.lab14_Math_func.executor": "Run",
+    "Python.lab15_Literals.executor": "Run",
+    "Python.lab16_Literals.executor": "Run",
+    "Python.lab17_Literals.executor": "Run",
+    "Python.lab18_Literals.executor": "Run",
+    "Python.lab20_Literals.executor": "Run",
+    "Python.lab21_user_input.executor": "Run",
+    "Python.lab22_Literals.executor": "Run",
+    "Python.lab23_string_functions.executor": "Run",
+    "Python.lab24_string2_functions.executor": "Run",
+    "Python.lab25_string3_functions.executor": "Run",
+    "Python.lab27_escape_sequnce1.executor": "Run",
+    "Python.lab28_escape_sequnce2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May18th_Keywords_identifiers_Variables"
+    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May18_Literals_Variables",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May18_Literals_Variables" />
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May18th_Keywords_identifiers_Variables" />
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\EX_May18th_Python_Basics" />
     </key>
@@ -130,6 +142,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747537538584</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1747558373638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747558373638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
