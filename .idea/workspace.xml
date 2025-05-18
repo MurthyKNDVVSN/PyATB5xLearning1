@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab001_Python_helloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab001_Python_helloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab002_python_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab002_python_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab003_python_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab003_python_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab0010.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab0010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab11.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab5.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab6_different_typeof_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab6_different_typeof_Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab7_Variables_identifier_rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab7_Variables_identifier_rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab8_Dynimically_typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/Lab8_Dynimically_typed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab13.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab14_Math_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18th_Keywords_identifiers_Variables/lab14_Math_func.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MurthyKNDVVSN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MurthyKNDVVSN/PyATB5xLearning.git",
+    "accountId": "ea7f3498-20b6-4839-b771-4dca414083f7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xFd1GLjkDbjKKhR59NQNAEaDqb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab0010.executor": "Run",
+    "Python.Lab001_Python_helloWorld.executor": "Run",
+    "Python.Lab002_python_basics.executor": "Run",
+    "Python.Lab003_python_basics.executor": "Debug",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab5.executor": "Run",
+    "Python.Lab7_Variables_identifier_rules.executor": "Run",
+    "Python.Lab8_Dynimically_typed.executor": "Run",
+    "Python.lab13.executor": "Run",
+    "Python.lab14_Math_func.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May18th_Keywords_identifiers_Variables"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May18th_Keywords_identifiers_Variables" />
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\EX_May18th_Python_Basics" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab001_Python_helloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAY/EX_May18th_Python_Basics/Lab001_Python_helloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab001_Python_helloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="" />
+      <created>1747537538584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747537538584</updated>
+    </task>
+    <servers />
+  </component>
+</project>
