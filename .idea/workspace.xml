@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab15_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab16_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab17_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab18_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab20_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab21_user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab22_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab23_string1_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab24_string2_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab25_string3_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab27_escape_sequnce1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab28_escape_sequnce2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="May18th" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,11 +135,20 @@
       <option name="project" value="LOCAL" />
       <updated>1747558373638</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="May18th">
+      <option name="closed" value="true" />
+      <created>1747581712738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747581712738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="May18th" />
+    <option name="LAST_COMMIT_MESSAGE" value="May18th" />
   </component>
 </project>
