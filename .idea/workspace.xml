@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="new files added" />
+    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="new files added">
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab30_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab31_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab32_Arth_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab42_User_Input_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab43_Coding_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_33_operators1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_34_operators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_35_operators1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_36_compar_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_37_not _operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_38_operators_or_gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_39_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_40_operators1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_41_Ternary_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_tas2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab29test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab29test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,40 +64,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001_Python_helloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002_python_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_python_basics.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab7_Variables_identifier_rules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab8_Dynimically_typed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab14_Math_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab15_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab16_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab17_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab18_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab20_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab21_user_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab22_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab23_string_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab24_string2_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab25_string3_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab27_escape_sequnce1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab28_escape_sequnce2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May18_Literals_Variables&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab0010.executor": "Run",
+    "Python.Lab001_Python_helloWorld.executor": "Run",
+    "Python.Lab002_python_basics.executor": "Run",
+    "Python.Lab003_python_basics.executor": "Debug",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab5.executor": "Run",
+    "Python.Lab7_Variables_identifier_rules.executor": "Run",
+    "Python.Lab8_Dynimically_typed.executor": "Run",
+    "Python.lab13.executor": "Run",
+    "Python.lab14_Math_func.executor": "Run",
+    "Python.lab15_Literals.executor": "Run",
+    "Python.lab16_Literals.executor": "Run",
+    "Python.lab17_Literals.executor": "Run",
+    "Python.lab18_Literals.executor": "Run",
+    "Python.lab20_Literals.executor": "Run",
+    "Python.lab21_user_input.executor": "Run",
+    "Python.lab22_Literals.executor": "Run",
+    "Python.lab23_string_functions.executor": "Run",
+    "Python.lab24_string2_functions.executor": "Run",
+    "Python.lab25_string3_functions.executor": "Run",
+    "Python.lab27_escape_sequnce1.executor": "Run",
+    "Python.lab28_escape_sequnce2.executor": "Run",
+    "Python.lab29test.executor": "Run",
+    "Python.lab30_task2.executor": "Run",
+    "Python.lab31_operators.executor": "Run",
+    "Python.lab32_Arth_operator.executor": "Run",
+    "Python.lab42_User_Input_Ternary_Operators.executor": "Run",
+    "Python.lab43_Coding_Q.executor": "Run",
+    "Python.lab_32_operators1.executor": "Run",
+    "Python.lab_34_operators.executor": "Run",
+    "Python.lab_34_operators2.executor": "Run",
+    "Python.lab_35_operators1.executor": "Run",
+    "Python.lab_36_compar_operators.executor": "Run",
+    "Python.lab_37_not _operators.executor": "Run",
+    "Python.lab_38_operators_or_gate.executor": "Run",
+    "Python.lab_39_operators.executor": "Run",
+    "Python.lab_40_operators1.executor": "Run",
+    "Python.lab_41_Ternary_operators.executor": "Run",
+    "Python.lab_tas2.executor": "Run",
+    "Python.lab_task1.executor": "Run",
+    "Python.lab_task3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May19th_operators",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May19th_operators" />
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May18_Literals_Variables" />
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May18th_Keywords_identifiers_Variables" />
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\EX_May18th_Python_Basics" />
@@ -151,8 +192,35 @@
       <option name="project" value="LOCAL" />
       <updated>1747581946560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1747582079986</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582079986</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1747582364844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582364844</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
