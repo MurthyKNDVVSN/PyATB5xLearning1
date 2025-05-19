@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="new files added">
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab30_task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab31_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab32_Arth_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab42_User_Input_Ternary_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab43_Coding_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_33_operators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_34_operators2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_35_operators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_36_compar_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_37_not _operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_38_operators_or_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_39_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_40_operators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_41_Ternary_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_tas2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_task3.py" afterDir="false" />
+    <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="May 19 th new files">
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_43.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab29test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May18_Literals_Variables/lab29test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_tas2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_tas2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +89,7 @@
     "Python.lab_39_operators.executor": "Run",
     "Python.lab_40_operators1.executor": "Run",
     "Python.lab_41_Ternary_operators.executor": "Run",
+    "Python.lab_43.executor": "Run",
     "Python.lab_tas2.executor": "Run",
     "Python.lab_task1.executor": "Run",
     "Python.lab_task3.executor": "Run",
@@ -208,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747582364844</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="May 19 th new files">
+      <option name="closed" value="true" />
+      <created>1747634356905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747634356905</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +218,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="May18th" />
     <MESSAGE value="new files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
+    <MESSAGE value="May 19 th new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="May 19 th new files" />
   </component>
 </project>
