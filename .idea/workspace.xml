@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="May 19 th new files">
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_4747.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab49_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab50_loops2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab53_for_loop1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_51_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_52-While_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_54_loops_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_55_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_56_Paass_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_57_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_58_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_59_match.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +89,9 @@
     "Python.lab42_User_Input_Ternary_Operators.executor": "Run",
     "Python.lab43_Coding_Q.executor": "Run",
     "Python.lab47.executor": "Run",
+    "Python.lab49_loops.executor": "Run",
+    "Python.lab50_loops2.executor": "Run",
+    "Python.lab53_whili_loop2.executor": "Run",
     "Python.lab_32_operators1.executor": "Run",
     "Python.lab_34_operators.executor": "Run",
     "Python.lab_34_operators2.executor": "Run",
@@ -92,6 +104,14 @@
     "Python.lab_41_Ternary_operators.executor": "Run",
     "Python.lab_43.executor": "Run",
     "Python.lab_4747.executor": "Run",
+    "Python.lab_48 _task.executor": "Run",
+    "Python.lab_51_loops.executor": "Run",
+    "Python.lab_54_loops.executor": "Run",
+    "Python.lab_55_loops.executor": "Run",
+    "Python.lab_56_Paass_break.executor": "Run",
+    "Python.lab_57_loops.executor": "Run",
+    "Python.lab_58_loop.executor": "Run",
+    "Python.lab_59_match.executor": "Run",
     "Python.lab_tas2.executor": "Run",
     "Python.lab_task1.executor": "Run",
     "Python.lab_task3.executor": "Run",
@@ -210,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747640776163</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="May 19 th new files">
+      <option name="closed" value="true" />
+      <created>1747642694060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747642694064</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
