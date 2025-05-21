@@ -5,20 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="May 19 th new files">
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May19th_operators/lab_60_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/EX_MAY20_functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab62_Basic_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab63_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab64_functions2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab65_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab66_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab67_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab68_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab69_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab71_functions_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab_70_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab100.tuple1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab101.tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab102.set1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab103.set2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab104_set3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab105.set4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab90_lambda1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab91_lambda1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab92_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab93_lambda4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab94_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab95_lambda_95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab96.list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab99.tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab_list2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex-May21_Lambada_list/lab_list3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/lab75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/lab76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/lab84_leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/lab85_type_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/lab_77_local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May20th_Function_Part2/lab_78_inner_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab73_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAY/Ex_May20_Functions/lab73_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +82,12 @@
     "Python.Lab5.executor": "Run",
     "Python.Lab7_Variables_identifier_rules.executor": "Run",
     "Python.Lab8_Dynimically_typed.executor": "Run",
+    "Python.lab.102.set1.executor": "Run",
+    "Python.lab.103.set2.executor": "Run",
+    "Python.lab100.tuple1.executor": "Run",
+    "Python.lab101.tuple.executor": "Run",
+    "Python.lab104_set3.executor": "Run",
+    "Python.lab105.set4.executor": "Run",
     "Python.lab13.executor": "Run",
     "Python.lab14_Math_func.executor": "Run",
     "Python.lab15_Literals.executor": "Run",
@@ -102,6 +120,20 @@
     "Python.lab67_functions.executor": "Run",
     "Python.lab68_functions.executor": "Run",
     "Python.lab69_functions.executor": "Run",
+    "Python.lab71_functions_args.executor": "Run",
+    "Python.lab72_function.executor": "Run",
+    "Python.lab73_functions.executor": "Run",
+    "Python.lab75.executor": "Run",
+    "Python.lab76.executor": "Run",
+    "Python.lab84_leap_year.executor": "Run",
+    "Python.lab85_type_conversion.executor": "Run",
+    "Python.lab90_lambda1.executor": "Run",
+    "Python.lab91_lambada1.executor": "Run",
+    "Python.lab92_lambada.executor": "Run",
+    "Python.lab93_lambda4.executor": "Run",
+    "Python.lab94_lambda.executor": "Run",
+    "Python.lab95_lambda_95.executor": "Run",
+    "Python.lab96.list1.executor": "Run",
     "Python.lab_32_operators1.executor": "Run",
     "Python.lab_34_operators.executor": "Run",
     "Python.lab_34_operators2.executor": "Run",
@@ -124,6 +156,10 @@
     "Python.lab_59_match.executor": "Run",
     "Python.lab_60_Continue.executor": "Run",
     "Python.lab_70_functions.executor": "Run",
+    "Python.lab_77.executor": "Run",
+    "Python.lab_78_inner_function.executor": "Run",
+    "Python.lab_list2.executor": "Run",
+    "Python.lab_list3.executor": "Run",
     "Python.lab_tas2.executor": "Run",
     "Python.lab_task1.executor": "Run",
     "Python.lab_task3.executor": "Run",
@@ -262,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747666164689</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="May 19 th new files">
+      <option name="closed" value="true" />
+      <created>1747710575909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747710575909</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

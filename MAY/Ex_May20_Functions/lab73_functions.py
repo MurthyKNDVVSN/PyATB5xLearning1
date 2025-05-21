@@ -5,12 +5,12 @@
 def make_pizza(*toppings):
     print(toppings)
     # for i in toppings:
-    #     print(i)
+    # print(i)
 
 pramod = make_pizza("tomato","olives")
 jayati = make_pizza("pineapple","olives","corn","paneer")
 vinay = make_pizza("tomato")
 
-r1 = max(1, 2, 3, 4, 6)
-r2 = max(1, 2, 3)
-r2 = max(2, 3)
+# r1 = max(1, 2, 3, 4, 6)  # Max function with multiple argumennts
+# r2 = max(1, 2, 3)  # Max function with multiple argumennts
+# r2 = max(2, 3)     #  Max function with multiple argumennts
