@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a30e2deb-d79f-471f-8f1c-5b24fa122415" name="Changes" comment="May 19 th new files">
-      <change afterPath="$PROJECT_DIR$/MAY/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/l;ab127_encap1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab126_encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab128.encap2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab129.encap3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab130.ENVFile_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab130.encap4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab131.encap5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab132.encap6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAY/EX_MAY22(1)_OOPS_concept/lab133.encap7..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/lab01_inher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/lab02_ploy_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/lab_MethodovwridingEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/lab_abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/lab_ex_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAY/Ex_May24th_inheritance/lab_ex_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/test_first_testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/test_fixtures_with_decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_first_testcase.test__dologin.executor": "Debug",
+    "Python tests.pytest for test_first_testcase.test_doLogin.executor": "Run",
+    "Python tests.pytest for test_first_testcase.test_regis.executor": "Run",
+    "Python tests.pytest for test_fixtures_with_decorators.test_doLogin.executor": "Run",
+    "Python tests.pytest in pytestlearning.executor": "Run",
     "Python.Lab0010.executor": "Run",
     "Python.Lab001_Python_helloWorld.executor": "Run",
     "Python.Lab002_python_basics.executor": "Run",
@@ -72,6 +75,8 @@
     "Python.l;ab127_encap1.executor": "Run",
     "Python.lab.102.set1.executor": "Run",
     "Python.lab.103.set2.executor": "Run",
+    "Python.lab01_inher.executor": "Run",
+    "Python.lab02_ploy_example.executor": "Run",
     "Python.lab1.Dict.executor": "Run",
     "Python.lab100.tuple1.executor": "Run",
     "Python.lab101.tuple.executor": "Run",
@@ -161,6 +166,10 @@
     "Python.lab_70_functions.executor": "Run",
     "Python.lab_77.executor": "Run",
     "Python.lab_78_inner_function.executor": "Run",
+    "Python.lab_MethodovwridingEx.executor": "Run",
+    "Python.lab_abstract.executor": "Run",
+    "Python.lab_ex_set.executor": "Run",
+    "Python.lab_ex_variable.executor": "Run",
     "Python.lab_list2.executor": "Run",
     "Python.lab_list3.executor": "Run",
     "Python.lab_tas2.executor": "Run",
@@ -169,8 +178,8 @@
     "Python.lan126.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/MAY/Ex_May20_Functions",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearning/pytestlearning",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -186,7 +195,7 @@
       <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearning\MAY\Ex_May20_Functions" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test_fixtures_with_decorators.test_doLogin">
     <configuration name="Lab001_Python_helloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -209,8 +218,123 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_first_testcase.test__dologin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestlearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_first_testcase.test__dologin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_first_testcase.test_doLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestlearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_first_testcase.test_doLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_first_testcase.test_regis" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestlearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_first_testcase.test_regis&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_fixtures_with_decorators.test_doLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestlearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fixtures_with_decorators.test_doLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PyATB5xLearning)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in pytestlearning" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PyATB5xLearning)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\satya\PycharmProjects\PyATB5xLearning\pytestlearning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;C:\\Users\\satya\\PycharmProjects\\PyATB5xLearning\\pytestlearning&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Lab001_Python_helloWorld" />
+      <item itemvalue="Python tests.pytest in pytestlearning" />
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python tests.pytest for test_fixtures_with_decorators.test_doLogin" />
+      <item itemvalue="Python tests.pytest for test_first_testcase.test_doLogin" />
+      <item itemvalue="Python tests.pytest for test_first_testcase.test_regis" />
+      <item itemvalue="Python tests.Python tests for test_first_testcase.test__dologin" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_fixtures_with_decorators.test_doLogin" />
+        <item itemvalue="Python tests.pytest for test_first_testcase.test_regis" />
+        <item itemvalue="Python tests.pytest for test_first_testcase.test_doLogin" />
+        <item itemvalue="Python tests.Python tests for test_first_testcase.test__dologin" />
         <item itemvalue="Python.Lab001_Python_helloWorld" />
       </list>
     </recent_temporary>
@@ -327,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747899965316</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="May 19 th new files">
+      <option name="closed" value="true" />
+      <created>1747911489155</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747911489155</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
